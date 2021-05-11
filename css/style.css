@@ -27,8 +27,10 @@ body{
     line-height: 1000%;
 }
 
-.box-nested {
+.style2{
+    height: 18vh;
     border: 1px solid white;
-    min-height: 50px;
+    text-align: center;
+    line-height: 1000%;
 }
 
